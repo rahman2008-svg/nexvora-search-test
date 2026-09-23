@@ -1,0 +1,3 @@
+https://www.typescriptlang.org/ | TypeScript: JavaScript With Syntax For Types
+https://nodejs.org/ | Node.js — Run JavaScript Everywhere
+https://developer.mozilla.org/en-US | MDN Web Docs - Resources for Developers, by Developers

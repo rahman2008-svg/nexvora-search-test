@@ -1,0 +1,10 @@
+https://www.python.org/
+https://docs.python.org/3/
+https://nodejs.org/
+https://www.typescriptlang.org/
+https://www.typescriptlang.org/docs/
+https://go.dev/
+https://www.rust-lang.org/
+https://developer.mozilla.org/en-US/
+https://github.com/
+https://curl.se/

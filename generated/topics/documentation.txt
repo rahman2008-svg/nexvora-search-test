@@ -1,0 +1,4 @@
+https://www.python.org/ | Welcome to Python.org - Python Programming Language
+https://docs.python.org/3 | Python 3 Documentation - Official Python Guides and Reference
+https://www.typescriptlang.org/ | TypeScript: JavaScript With Syntax For Types
+https://developer.mozilla.org/en-US | MDN Web Docs - Resources for Developers, by Developers

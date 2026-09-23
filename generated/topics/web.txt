@@ -1,0 +1,5 @@
+https://www.python.org/ | Welcome to Python.org - Python Programming Language
+https://www.rust-lang.org/ | Rust Programming Language - Fast, Reliable, Memory-Safe
+https://developer.mozilla.org/en-US | MDN Web Docs - Resources for Developers, by Developers
+https://nasa.gov/ | National Aeronautics and Space Administration (NASA)
+https://www.w3.org/standards | W3C Standards - World Wide Web Consortium

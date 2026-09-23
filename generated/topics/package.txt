@@ -1,0 +1,3 @@
+https://www.python.org/ | Welcome to Python.org - Python Programming Language
+https://nodejs.org/ | Node.js — Run JavaScript Everywhere
+https://www.rust-lang.org/ | Rust Programming Language - Fast, Reliable, Memory-Safe

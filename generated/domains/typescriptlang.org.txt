@@ -1,0 +1,1 @@
+https://www.typescriptlang.org/ | TypeScript: JavaScript With Syntax For Types

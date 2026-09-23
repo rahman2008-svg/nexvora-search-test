@@ -1,0 +1,6 @@
+https://www.postgresql.org/
+https://www.postgresql.org/docs/current/
+https://sqlite.org/
+https://sqlite.org/docs.html
+https://redis.io/
+https://redis.io/docs/

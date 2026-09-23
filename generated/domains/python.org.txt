@@ -1,0 +1,2 @@
+https://www.python.org/ | Welcome to Python.org - Python Programming Language
+https://docs.python.org/3 | Python 3 Documentation - Official Python Guides and Reference

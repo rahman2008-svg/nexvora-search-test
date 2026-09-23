@@ -1,0 +1,6 @@
+{
+  "name": "NexVora Search",
+  "description": "Independent, deterministic, privacy-first web search engine powered by GitHub source registries, persistent web crawling, and BM25 ranking without AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,2 @@
+https://developer.mozilla.org/en-US | MDN Web Docs - Resources for Developers, by Developers
+https://www.w3.org/standards | W3C Standards - World Wide Web Consortium
